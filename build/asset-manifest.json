@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React_2/static/css/main.a15cbdca.chunk.css",
+    "main.js": "/React_2/static/js/main.96247437.chunk.js",
+    "main.js.map": "/React_2/static/js/main.96247437.chunk.js.map",
+    "runtime-main.js": "/React_2/static/js/runtime-main.fafec6b8.js",
+    "runtime-main.js.map": "/React_2/static/js/runtime-main.fafec6b8.js.map",
+    "static/js/2.934c86af.chunk.js": "/React_2/static/js/2.934c86af.chunk.js",
+    "static/js/2.934c86af.chunk.js.map": "/React_2/static/js/2.934c86af.chunk.js.map",
+    "index.html": "/React_2/index.html",
+    "static/css/main.a15cbdca.chunk.css.map": "/React_2/static/css/main.a15cbdca.chunk.css.map",
+    "static/js/2.934c86af.chunk.js.LICENSE.txt": "/React_2/static/js/2.934c86af.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React_2/static/media/hsoub-logo.d7750077.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fafec6b8.js",
+    "static/js/2.934c86af.chunk.js",
+    "static/css/main.a15cbdca.chunk.css",
+    "static/js/main.96247437.chunk.js"
+  ]
+}
