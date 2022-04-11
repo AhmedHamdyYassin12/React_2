@@ -1,5 +1,4 @@
 body {
-    /* background-image: url(./hsoub-logo.png); */
     background-position: 5% 17px;
     background-repeat: no-repeat;
     background-size: 125px 40px;
@@ -91,7 +90,14 @@ body {
 }
 
 .note-operations a {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
     color: #7b7777;
+}
+
+.note-operations a p {
+    padding-left: 5px;
 }
 
 .button {

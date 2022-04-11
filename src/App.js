@@ -124,10 +124,11 @@ function App() {
       <div>
         <div className="note-operations">
           <a href="#" onClick={() => onEditNoteHandler(note)}>
-            <i className="fa fa-pencil-alt" />
+            {/* <i className="fa fa-pencil-alt" /> */}
+            <p>Edit</p>{" "}
           </a>
-          <a href="#">
-            <i className="fa fa-trash" onClick={onDeleteNoteHandler} />
+          <a href="#" onClick={onDeleteNoteHandler}>
+            <p>Delete</p>
           </a>
         </div>
         <div>
